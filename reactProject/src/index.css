@@ -1,0 +1,58 @@
+.div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+/*
+.card{
+  height: auto;
+  width: 150px;
+  background-color: rgb(124, 124, 255);
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+
+}
+.card img{
+  width: 150px;
+  border-radius: 18px;
+} */
+
+
+.mybook{
+  width: 200px;
+  height: auto;
+  padding: 0px;
+  border: 2px solid ;
+  text-align: center;
+  border-radius: 10px;
+}
+#img{
+  width: 200px;
+  height: 200px;
+}
+.mybook button{
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+
+
+/* 
+.continer{
+  display: "flex",
+  height: "100vh",
+  justifyContent: "center",
+  alignItems: "center",
+}
+Button{
+  background-color: blue;
+  padding: 10px;
+  color: white;
+  font: bold;
+  cursor: pointer;
+ 
+} */
